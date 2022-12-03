@@ -1,1 +1,1 @@
-<img align="right" src="https://raw.githubusercontent.com/raimonade/raimonade/master/star.gif" width="32" />
+<img align="right" src="https://raw.githubusercontent.com/raimonade/raimonade/master/kirby.gif" width="32" />
